@@ -1,4 +1,4 @@
-// Checking sum zero problem
+// Checking sum zero problem  || No javascript inbuild function used:
 // [-5,-4,-3,-2,0,1,2,4,6,8] -> Input
 // [-4,4] -> Output
 
