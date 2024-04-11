@@ -1,4 +1,4 @@
-// String Anagram
+// String Anagram   || No javascript inbuild function used:
 // 'hello' --> 'llheo'
 
 function isAnagram(string1, string2) {
