@@ -1,4 +1,4 @@
-// Count Unique Number
+// Count Unique Number  || No javascript inbuild function used:
 // [1,1,2,2,3,4,4,5,6,7,8,8]
 
 function UniqueCount(array) {
