@@ -1,4 +1,4 @@
-// Divide and Conquer technique
+// Divide and Conquer technique  || No javascript inbuild function used:
 // Find the index of given number in a sorted array 7.
 // [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15] -> Output = 6
 
